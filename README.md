@@ -74,7 +74,8 @@ To fully solve the business problem of inconsistent engagement and low stickines
 
 ### Dashboard
 
-![image.png](attachment:137b27c8-6c96-4e68-8047-f073eaec0a62:image.png)
+![image.png](https://github.com/osaze32/Scheduled_Reports_Impact_on_User-Engagement_and_Retention/blob/main/Dashbaord.png)
+
 
 ## **Contact**
 
